@@ -107,9 +107,8 @@ Select Exit to close the program.
 Project Structure
 
 Integrated-Management-System/
-│
-├── main.py
-└── README.md
+main.py
+README.md
 
 Important Notes
 
