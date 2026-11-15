@@ -1,0 +1,13 @@
+column,data_type
+transaction_id,int64
+day_index,int64
+outlet_id,int64
+product_code,str
+category_code,str
+quantity,int64
+unit_price,float64
+unit_cost,float64
+discount_rate,float64
+stock_before_units,int64
+payment_code,str
+customer_rating,float64

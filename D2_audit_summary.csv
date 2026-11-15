@@ -1,0 +1,12 @@
+validation_rule,invalid_records
+invalid_day,0
+invalid_outlet,2
+invalid_product,0
+invalid_category,0
+invalid_quantity,4
+invalid_price,6
+invalid_discount,2
+invalid_cost,6
+invalid_stock,0
+invalid_payment,0
+invalid_rating,3
